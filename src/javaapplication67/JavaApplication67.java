@@ -13,8 +13,8 @@ public class JavaApplication67 {
     public static void main(String[] args) {
   
         System.out.println("Hola GIT");
-        
-        System.out.println("Comision 2");
+        int i =0;
+        System.out.println("Comision 2" + i);
         
     }
     
